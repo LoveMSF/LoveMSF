@@ -6,10 +6,11 @@ Frontend developer & UI tinkerer passionate about web applications, retro interf
 
 ### 🚀 Featured Projects
 
+- **GlyphIsland** — Cross-platform desktop status capsule & widget overlay styled after Nothing OS industrial minimalism for Windows & Linux, featuring live hardware telemetry, focus audio synthesizer, clipboard vault, and Pomodoro timer.
+- **WalkmanBox** — Offline-first Android & web music player styled after Nothing OS industrial minimalism, featuring unlimited local audio storage (IndexedDB), a real-time dot-matrix visualizer, and a 3-band EQ.
 - **Tokyo Public Transport Tracker** — Real-time Tokyo railway & metro simulator on an interactive map with live train telemetry and line filtering.
 - **iOS 9-ish Web Simulator** — Experimental retro mobile UI playground loosely inspired by iOS 9 (looks nothing like actual iOS, just a fun sandbox with working mini-apps).
 - **Koji — Japanese Language School** — Minimalist landing page built around the Japanese *Yohaku* (whitespace) aesthetic.
-- **WalkmanBox** — Offline-first Android & web music player styled after Nothing OS industrial minimalism, featuring unlimited local audio storage (IndexedDB), a real-time dot-matrix visualizer, and a 3-band EQ.
 
 ---
 
