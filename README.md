@@ -9,6 +9,7 @@ Frontend developer & UI tinkerer passionate about web applications, retro interf
 - **Tokyo Public Transport Tracker** — Real-time Tokyo railway & metro simulator on an interactive map with live train telemetry and line filtering.
 - **iOS 9-ish Web Simulator** — Experimental retro mobile UI playground loosely inspired by iOS 9 (looks nothing like actual iOS, just a fun sandbox with working mini-apps).
 - **Koji — Japanese Language School** — Minimalist landing page built around the Japanese *Yohaku* (whitespace) aesthetic.
+- **WalkmanBox** — Offline-first Android & web music player styled after Nothing OS industrial minimalism, featuring unlimited local audio storage (IndexedDB), a real-time dot-matrix visualizer, and a 3-band EQ.
 
 ---
 
